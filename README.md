@@ -34,7 +34,6 @@ RegisterNumber :  212221230011
 ```
 ~~~
 
-
 import pandas as pd
 import numpy as np
 from sklearn import metrics 
